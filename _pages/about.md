@@ -17,14 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me 
-I am a PhD student at [Christian Doppler (CD) Laboratory ATHENA](https://athena.itec.aau.at/), based at the Institute of Information Technology (ITEC), University of Klagenfurt. I am fortunate to be advised by [Christian Timmerer](https://multimediacommunication.blogspot.com/p/about.html) and [Hadi Amirpour](https://hadiamirpour.github.io/index.html). I received my bachelor's degree in Information Engineering from South China University of Technology. I obtained my Master of Engineering degree in Electronics and Digital Technology from Polytech Nantes.
+I am currently a PhD student at [Christian Doppler (CD) Laboratory ATHENA](https://athena.itec.aau.at/), based at the Institute of Information Technology (ITEC), University of Klagenfurt. I am fortunate to be advised by [Christian Timmerer](https://multimediacommunication.blogspot.com/p/about.html) and [Hadi Amirpour](https://hadiamirpour.github.io/index.html). I received my Master of Engineering degree in Electronics and Digital Technology from Polytech Nantes, and received my bachelor's degree in Information Engineering from South China University of Technology.
 
 I am interested in video streaming, video compression, and deep learning in general. My PhD research focuses on exploring advanced video compression using deep learning techniques. 
-
-[//]:# 🔥 News
-[//]:- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-[//]:- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 📝 Publications 
 
@@ -42,17 +37,14 @@ I am interested in video streaming, video compression, and deep learning in gene
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# 📖 Educations
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Academic Activities
+- *2024.12*, Attending NeurIPS 2024 
+- *2024.08*, Attending EUSIPCO 2024.
