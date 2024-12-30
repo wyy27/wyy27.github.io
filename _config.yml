@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yiying Wei"
   avatar           : "images/profile.png"
-  bio              : "University of Klagenfurt"
-  location         : "Klagenfurt, Austria"
+  bio              : #""
+  location         : "University of Klagenfurt, Austria"
   employer         : # "University of Klagenfurt"
   pubmed           : 
   googlescholar    : "ttps://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=x_9iv2sAAAAJ"
