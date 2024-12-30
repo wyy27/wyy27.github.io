@@ -29,4 +29,4 @@ I am interested in video streaming, video compression, and deep learning in gene
   
 # Publications 
 
-- "Video Encoding Enhancement via Content-Aware Spatial and Temporal Super-Resolution", **Yiying Wei**, Hadi Amirpour, Ahmed Telili, Wassim Hamidouche, Guo Lu, Christian Timmerer, *EUSIPCO 2024*  [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10714942), [Poster]()
+- "Video Encoding Enhancement via Content-Aware Spatial and Temporal Super-Resolution", **Yiying Wei**, Hadi Amirpour, Ahmed Telili, Wassim Hamidouche, Guo Lu, Christian Timmerer, *EUSIPCO 2024* *(Published)*  [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10714942), [Poster]()
