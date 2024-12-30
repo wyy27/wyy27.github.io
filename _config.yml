@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yiying Wei"
-description              : "Personal Homepage"
+description              : "PhD Student"
 repository               : "wyy27/wyy27.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yiying Wei"
   avatar           : "images/profile.png"
-  bio              : "PhD student in video streaming and deep learning"
+  bio              : "Video Streaming/Deep Learning"
   location         : "Klagenfurt, Austria"
   employer         : "University of Klagenfurt"
   pubmed           : 
