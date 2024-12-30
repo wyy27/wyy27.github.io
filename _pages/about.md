@@ -25,7 +25,7 @@ I am interested in video streaming, video compression, and deep learning in gene
 # Activities
 - *2024.12*, Attending NeurIPS 2024 
 - *2024.08*, Attending EUSIPCO 2024.
-- *2024.03*, Winning the second prize on ICIP 24 Challenge - "360-Degree Video Super Resolution and Quality Enhancement (Track 2) "
+- *2024.03*, Winning the second prize on ICIP 24 Challenge - "[360-Degree Video Super Resolution and Quality Enhancement](https://www.icip24-video360sr.ae/home) (Track 1) "
   
 # Publications 
 
