@@ -23,9 +23,9 @@ I am currently a PhD student at [Christian Doppler (CD) Laboratory ATHENA](https
 I am interested in video streaming, video compression, and deep learning in general. My PhD research focuses on exploring advanced video compression using deep learning techniques. 
 
 # Activities
-- *2024.12*, Attending NeurIPS 2024 
+- *2024.12*, Attending NeurIPS 2024.
 - *2024.08*, Attending EUSIPCO 2024.
-- *2024.03*, Winning the second prize on ICIP 24 Challenge - "[360-Degree Video Super Resolution and Quality Enhancement](https://www.icip24-video360sr.ae/home) (Track 1) "
+- *2024.03*, Winning the second prize on ICIP 24 Challenge - [360-Degree Video Super Resolution and Quality Enhancement](https://www.icip24-video360sr.ae/home) (Track 1).
   
 # Publications 
 
