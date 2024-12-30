@@ -29,4 +29,4 @@ I am interested in video streaming, video compression, and deep learning in gene
   
 # Publications 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Video Encoding Enhancement via Content-Aware Spatial and Temporal Super-Resolution](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10714942), A, B, C, **EUSIPCO 2024**
